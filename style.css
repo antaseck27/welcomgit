@@ -1,3 +1,4 @@
+
 #About img{
     border-radius: 2%;
 }
@@ -26,3 +27,41 @@
     margin: 7px ;
     color: #008374;
  }
+*{
+    
+}
+.navun{
+    background: color(srgb 0 0.462353 0.409412);
+}
+.navun a{
+    color: white;
+}
+.navdeux{
+    background-color: #008374;
+}
+.navdeux a{
+    color: white;
+}
+
+.sectionun{
+    background-color: #008374;
+    color: white;
+    font-weight: 400;
+    font-size: 200px;
+    
+}
+.rang{
+    width: 100%;
+    height: 250PX;
+    background-color: #008374;
+    color: white;
+    font-size: 25px;
+
+}
+.roww{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
