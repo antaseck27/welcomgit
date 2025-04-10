@@ -27,6 +27,22 @@
     margin: 7px ;
     color: #008374;
  }
+ .title{
+    font-size: 45px;
+}
+
+.position-relative{
+    position: relative;
+}
+
+#testimonial img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+
+
 *{
     
 }
