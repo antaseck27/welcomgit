@@ -1,0 +1,100 @@
+header main{
+    height: 100vh;
+    padding-top: 100px;
+}
+
+main{
+    background-color: #f2f2f2;
+    padding: 20px 0;
+}
+
+header .w-50{
+    width: 80% !important;
+}
+
+header h1{
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+/*---------------------- About ----------------------*/
+#about  h2, span{
+    color: #d53535;
+}
+
+#about .boredr-5{
+    color:   black !important;
+}
+
+#about .fa-circle-check{
+    color: #d53535;
+}
+
+#nav-bar .bg-danger{
+    background-color: #d53535 !important;
+    padding: 50px;
+}
+
+#nav-bar .text-danger {
+    color: #d53535 !important;
+    font-size: 35px;
+    margin-top: 15px;
+}
+
+#nav-bar .rounded-circle{
+    background-color: rgb(234, 232, 232);
+    width: 70px;
+    height: 70px;
+    margin: 60px 70px;
+}
+#nav-bar button{
+    background-color: #d53535 !important;
+    margin-top: 30px;
+}
+#nav-bar button:hover{
+    background-color: #fff !important;
+    color: #d53535;
+}
+#nav-bar .rounded-circle:hover{
+    background-color: #d53535;
+    color: white !important;
+    cursor: pointer;
+}
+
+#nav-bar .text-danger:hover{
+    color: #fff !important;
+}
+
+#image{
+    background: url("img/stats-bg.jpg");
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: center;
+}
+
+#image .TEXTES{
+    margin-top: 100px;
+    color: #d53535;
+}
+/* -------------------------- Exit section About -------------------------- */
+
+#menu .nav-link{
+    color: black;
+}
+
+#menu .nav-item{
+    border: none;
+}
+
+#menu img{
+    width: 350px;
+    height: 350px;
+}
+
+#testimonial img{
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+}

@@ -1,0 +1,19 @@
+.side-bar{
+    background: #f4f4f8;
+    padding: 20px;
+    min-height: 100vh;
+
+}
+ul{
+    list-style: none;
+}
+.side-bar .nav-item .active{
+    background-color: blue;
+    color: #fff;
+}
+
+
+.height-light{
+    height: 50px;
+    width: 50px;
+}
